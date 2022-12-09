@@ -1,0 +1,44 @@
+.head{
+    font-size: 100px;
+    position: absolute;
+    margin-left: 645px;
+  
+}
+
+.head2{
+    width: 1850px;
+    height: 115px;
+    border-style: solid;
+    //margin-left: 400px;
+    background-color: greenyellow;
+}
+
+.box{
+position: absolute;
+height: 300px;
+width: 200px;
+border-style: solid;
+border-color: black;
+margin-left: 400px;
+margin-top: 200px;
+}
+
+.box2{
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 800px;
+    margin-top: 200px;
+}
+
+.box3{
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 1200px;
+    margin-top: 200px;
+}
